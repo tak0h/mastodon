@@ -1,3 +1,7 @@
+## 2.6.0
+
+TODO
+
 ## 2.5.2
 
 - Fix XSS vulnerability (#8959)
